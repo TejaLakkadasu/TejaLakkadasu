@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TejaLakkadasu
+- 👋 Hi, I’m TejaLakkadasu
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python and SQL
 - 📫 How to reach me teja.naidu751@gmail.com
