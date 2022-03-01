@@ -1,4 +1,4 @@
-- 👋 Hi, I’m TejaLakkadasu
+- 👋 Hi, I’m Teja Lakkadasu
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently pursuing Data Science and Engineering at Great Learning
 - 📫 How to reach me teja.naidu751@gmail.com
