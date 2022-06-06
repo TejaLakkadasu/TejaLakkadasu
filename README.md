@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Teja Lakkadasu
-- 
+
 - 👀 I’m interested in Machine Learning
-- 
+
 - 🌱 Post Graduate Program in Data Science and Engineering at Great Learning.
-- 
+
 - Skills:
 
 ![pythonlogo](https://user-images.githubusercontent.com/89196090/172143914-5cc9dd0c-3096-4b42-957a-c3ab7af0d2b3.jpg) 
