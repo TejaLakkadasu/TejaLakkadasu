@@ -3,6 +3,8 @@
 
 - 👨‍💻 All of my projects are available at [https://eportfolio.mygreatlearning.com/lakkadasu-teja](https://eportfolio.mygreatlearning.com/lakkadasu-teja)
 
+- 💬 Ask me about **python , SQL , Machine Learning , Statistics**
+
 - 📫 How to reach me **teja.naidu751@gmail.com**
 
 - ⚡ Fun fact **Let's make data to talk**
