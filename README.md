@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Teja Lakkadasu</h1>
-<h3 align="center">A passionate Data Science Machine Learning from India</h3>
+<h3 align="center">Talks about Data Science, Machine Learning from India</h3>
 
 - 👨‍💻 All of my projects are available at [https://eportfolio.mygreatlearning.com/lakkadasu-teja](https://eportfolio.mygreatlearning.com/lakkadasu-teja)
 
